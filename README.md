@@ -1,5 +1,7 @@
 # Encriptador-Alura
 Aqui muestro mi proyecto de encriptador de codigo, con las funcionalidades requeridas, me complique en una parte por mala escritura pero lo supere, tambien agregue un icono a la pagina, para que se vea mas como la de alura.
+![image](https://user-images.githubusercontent.com/106121903/236578964-bf68edeb-af52-4d45-9483-ba6598ad6e5f.png)
+
 
 El encriptador funciona bien, ![image](https://user-images.githubusercontent.com/106121903/236577743-106e95e3-1940-435f-9ee1-68cf131f6b36.png)
 
